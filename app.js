@@ -20,6 +20,13 @@ log;
 
 log("Hello World");
 
+function divide(a, b) {
+    return a / b;
+}
+
+console.log(divide(8, 4, 3));
+console.log(divide(8, 4));
+console.log(divide(8));
 
 console.log(AGE);
 console.log(sumar('hello ', 'world!'));
