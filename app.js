@@ -9,9 +9,7 @@ const subtract = function (a, b) {
 };
 
 const multiply = (a, b) => a * b;
-
 const log = (a) => console.log(`value of a is: ${a}`);
-
 const sumar = add;
 const AGE = 65;
 
